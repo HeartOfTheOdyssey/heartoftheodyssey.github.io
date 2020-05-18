@@ -114,7 +114,7 @@ border-radius: 5px;
 #speler{
   width: 10em;
   height: 3em;
-  background-color: #FF7518;
+  background-color:#FF1818;
   border: white solid 1px;
   transition: 0.3s;
   border-radius: 5px;
@@ -122,7 +122,7 @@ border-radius: 5px;
 #keeper{
   width: 10em;
   height: 3em;
-  background-color: #FF7518;
+  background-color: #FF1818;
   border: white solid 1px;
   margin-top: 1.2em;
   transition: 0.3s;
@@ -167,7 +167,7 @@ border-radius: 5px;
 }
 div #contact{
   display: flex;
-  background-color: #FF7518;
+  background-color: #FF1818;
   border: 0.15em solid white;
   width: 10em;
   height: 3em;
@@ -289,7 +289,7 @@ div #contact{
 #zaalhockey{
   width: 10em;
   height: 3em;
-  background-color: #FF7518;
+  background-color: #FF1818;
   border: white solid 1px;
   transition: 0.3s;
   border-radius: 5px;
@@ -342,7 +342,7 @@ div #contact{
 #heren{
   width: 10em;
   height: 3em;
-  background-color: #FF7518;
+  background-color:#FF1818;
   border: white solid 1px;
   transition: 0.3s;
   border-radius: 5px;
@@ -350,7 +350,7 @@ div #contact{
 #dames{
   width: 10em;
   height: 3em;
-  background-color: #FF7518;
+  background-color:#FF1818;
   border: white solid 1px;
   transition: 0.3s;
   border-radius: 5px;
@@ -450,7 +450,7 @@ table,td, th{
   border-collapse: collapse;
 }
 th{
-  background-color: #FF7518;
+  background-color:#FF1818;
 }
 #keepertabel{
   margin-left: 29%;
